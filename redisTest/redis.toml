@@ -1,0 +1,5 @@
+[RedisConfig]
+	name = "xactivity"
+	proto = "tcp"
+	addr = "127.0.0.1:20940"
+	auth = "test"
